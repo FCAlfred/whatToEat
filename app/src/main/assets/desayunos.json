@@ -1,0 +1,24 @@
+{
+  "cagtegoria": "Desayunos",
+  "portada": "https://www.hola.com/imagenes/cocina/noticiaslibros/20210430188693/recetas-dia-de-la-madre/0-946-621/madre-adobe-m.jpg",
+  "platillo": [
+    {
+      "id": "1",
+      "titulo": "Huevo con jamón",
+      "imagen": "https://unareceta.com/wp-content/uploads/2017/03/huevos-revueltos-con-jamon.jpg",
+      "personas": "2",
+      "ingredientes": "1. Huevo. 2. Jamón. 3. Sal. 4. 2 salchichas",
+      "procedimiento": "Mezcla todo",
+      "video": ""
+    },
+    {
+      "id": "2",
+      "titulo": "HotCakes",
+      "imagen": "https://www.cocinavital.mx/wp-content/uploads/2017/08/receta-masa-hot-cakes-634x420.jpg",
+      "personas": "2",
+      "ingredientes": "1. 3 Huevos. 2. Medio litro de leche. 3. 50g mantequilla",
+      "procedimiento": "Mezcla todo",
+      "video": ""
+    }
+  ]
+}
